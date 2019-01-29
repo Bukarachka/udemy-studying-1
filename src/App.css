@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+}
+
+.UserOutput {
+    alignment: center;
+    width: 60%;
+    padding: 16px;
+    margin: auto;
+    border: 2px solid lightgray;
+    background-color: #fff;
+    text-align: center;
+}
